@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-It is the classic Tic Tac Toe game played by 2 users who take alternate turns in order to make a horizontal, vertical or diagonal line of same character over a 3x3 board.
+Tic-tac-toe, or noughts and crosses is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 It is built using Unity and C#
 
 ***Like it? [Star this repo](https://github.com/Kajaljain22/Tic-Tac-Toe/) :star:***
